@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angular_Dashboards';
+  title = 'sidebar';
+  sideBarOpen = true;
+
+  ngOnInit(): void {
+    
+  }
+
+  sideBarToggler(){
+    this.sideBarOpen = !this.sideBarOpen;
+  }
 }

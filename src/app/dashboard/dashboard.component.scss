@@ -1,0 +1,166 @@
+.first_box{
+    margin-top: 1%;
+    border-radius: 5px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2), 0 0 3px rgba(0, 0, 0, 0.15), 0 0 4px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.05);
+    h4,h1,h2,h3,h5,h6,p{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+}
+.box1{
+    background-image: url('https://www.creative-tim.com/blog/content/images/wordpress/2019/06/opt_md_angular_thumbnail.jpg');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 20%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box1:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://www.creative-tim.com/blog/content/images/wordpress/2019/06/opt_md_angular_thumbnail.jpg');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.box2{
+    background-image: url('https://coreui.io/images/templates/coreui_free_1440.webp');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 18%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box2:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://coreui.io/images/templates/coreui_free_1440.webp');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.box3{
+    background-image: url('https://www.creative-tim.com/blog/content/images/wordpress/2019/06/opt_ad_angular_thumbnail.jpg');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 18%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box3:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://www.creative-tim.com/blog/content/images/wordpress/2019/06/opt_ad_angular_thumbnail.jpg');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.box4{
+    background-image: url('https://mdbcdn.b-cdn.net/wp-content/uploads/2018/03/admin-angular.png');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 18%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box4:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://mdbcdn.b-cdn.net/wp-content/uploads/2018/03/admin-angular.png');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.box5{
+    background-image: url('https://s3.amazonaws.com/creativetim_bucket/products/59/original/opt_pdp_angular_thumbnail.jpg?1551358278');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 18%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box5:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://s3.amazonaws.com/creativetim_bucket/products/59/original/opt_pdp_angular_thumbnail.jpg?1551358278');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.box6{
+    background-image: url('https://repository-images.githubusercontent.com/302270286/9226da80-5806-11eb-8659-867169e1da3b');
+    background-size: cover;
+    height: 250px;
+    border-radius: 5px;
+    button{
+        margin-top: 18%;
+        opacity: 0;
+    }
+    h6{
+        opacity: 0;
+    }
+}
+.box6:hover{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://repository-images.githubusercontent.com/302270286/9226da80-5806-11eb-8659-867169e1da3b');
+    background-size: cover;
+    button{
+        margin-top: 18%;
+        opacity: 100;
+    }
+    h6{
+        opacity: 100;
+        color: white;
+    }
+}
+.second_box{
+    margin-top: 1%;
+    border-radius: 5px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2), 0 0 3px rgba(0, 0, 0, 0.15), 0 0 4px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.05);
+    h4,h1,h2,h3,h5,h6,p{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+}
